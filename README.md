@@ -4,6 +4,9 @@
 **consola con VScode hasta subir al repositorio** 
 - [x] Finish my changes
 - [ ] Open pull request
+- [x] Revisar camaras 🎥
+- [ ] Realizar planos de silos 📊
+- [ ] actualizar notion 📝
 
 ## table
 First Header | Second Header
